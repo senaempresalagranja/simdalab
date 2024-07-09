@@ -1,0 +1,23 @@
+.wrap {
+	width: 880px;
+	margin: 1px auto;
+}
+
+.menu li {
+	float: left;
+	position: relative;
+
+
+}
+
+.menu li a {background-image:(#FFAE00);
+	color: #444;
+	display: block;
+	font-size: 14px;
+	line-height: 20px;
+	padding: 6px 12px;
+	margin: 8px 8px;
+	vertical-align: middle;
+	text-decoration: none;
+}
+

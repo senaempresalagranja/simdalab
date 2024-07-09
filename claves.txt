@@ -1,0 +1,4 @@
+registro registro123
+analista analistasena*
+usuario = admin  password = 123
+consulta consulta
